@@ -1,0 +1,12 @@
+
+project:
+  name: 'q2q'
+  owner: 'CS169L-22'
+  teamId: '01'
+  identities:
+    heroku: 'http://dashboard.heroku.com/apps/secret-fjord-66608'
+  members:
+    member:
+      name: 'Max'
+      surname: 'Yang' 
+      githubUsername: 'MaxYang24'
