@@ -4,7 +4,7 @@ project:
   owner: 'CS169L-22'
   teamId: '01'
   identities:
-    heroku: 'https://secret-fjord-66608heroku.com'
+    heroku: 'https://secret-fjord-66608.herokuapp.com'
   members:
     member:
       name: 'Max'
